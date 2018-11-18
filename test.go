@@ -4,9 +4,7 @@ import "fmt"
 
 func main(){
 	fmt.Println("Sucks!!!")
-	fmt.Println("Sdfdfdfducks")
 	fmt.Println("Hello world! By Sheldon")
-	fmt.Println("Hello world!")
 }
 
 func Subsets(nums []int) [][]int {
