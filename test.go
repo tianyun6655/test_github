@@ -7,3 +7,6 @@ func main(){
 }
 
 
+func arvin(){
+	fmt.Println("arvin")
+}
