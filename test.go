@@ -17,3 +17,6 @@ func Subsets(nums []int) [][]int {
 
 
 
+func arvin(){
+	fmt.Println("arvin")
+}
